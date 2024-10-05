@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Mohamed Hany Mahmoud</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Mohamed Hany Mahmoud</h1>
+        <p>Aswan</p>
+        <p>01114488215 | <a href="mailto:mohamedhaniiii127@gmail.com">mohamedhaniiii127@gmail.com</a></p>
+
+        <h2>Objective</h2>
+        <p>Seeking a level position to begin my career in a high-level professional environment. I am a highly organized and hard-working individual looking for a responsible position to gain practical experience...</p>
+
+        <h2>Education</h2>
+        <ul>
+            <li><strong>Aswan University</strong> - Fresh Graduate of Geographic Information Systems (GIS), Faculty of Arts, Very Good</li>
+        </ul>
+
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>Marketing Assistant</strong>, Aswan Youth (15/6/2023 - 20/7/2024)</li>
+            <li><strong>Call Center</strong>, Damascene Corner Restaurant (4/2/2024 - 15/3/2024)</li>
+            <li><strong>Sales</strong>, El Tawhid Supermarket (8/1/2023 - 25/1/2024)</li>
+        </ul>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>Languages: Arabic (C2), English (B1)</li>
+            <li>Graphic Design: Adobe Photoshop, Illustrator, InDesign</li>
+            <li>Programming: HTML, CSS, Python</li>
+            <li>GIS: AutoCAD, ArcGIS Pro</li>
+        </ul>
+
+        <h2>Training & Certifications</h2>
+        <ul>
+            <li>National Technology Institute (Graphic Design)</li>
+            <li>Information Technology Institute (GIS Fundamentals)</li>
+            <li>EGYPT AIR TRAINING CENTER (Sales Office)</li>
+        </ul>
+    </div>
+</body>
+</html>
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+p, ul li {
+    line-height: 1.6;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
